@@ -1,0 +1,3 @@
+﻿  TwitterTowers.cpp
+C:\Users\Naama\Desktop\TwitterTowers\TwitterTowers\TwitterTowers.cpp(68,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  TwitterTowers.vcxproj -> C:\Users\Naama\Desktop\TwitterTowers\x64\Debug\TwitterTowers.exe
